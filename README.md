@@ -1,4 +1,4 @@
-# Project Name
+# licence_plate_detection
 
 This project is a FastAPI-based application for plate number recognition using PaddleOCR.
 
